@@ -3,8 +3,8 @@ A Comprehensive Review of Benchmark Datasets for Deep Learning-based Medical Ima
 
 
 
-ADNI: https://adni.loni.usc.edu/
-STS-2D-Tooth: https://aistudio.baidu.com/datasetdetail/223783/0
+-ADNI: https://adni.loni.usc.edu/
+-STS-2D-Tooth: https://aistudio.baidu.com/datasetdetail/223783/0
 STS-3D-Tooth: https://www.codabench.org/competitions/3024/#/pages-tab
 REFUGE / REFUGE2: https://refuge.grand-challenge.org/
 Dristi-GS: https://hf-mirror.com/datasets/dennisheraldi/Drishti_GS
