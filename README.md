@@ -1,224 +1,115 @@
-markdown
 # Awesome-medical-segmentation-datasets
 A Comprehensive Review of Benchmark Datasets for Deep Learning-based Medical Image Segmentation
 
-Below are the links to the data sets currently compiled by our team:
-
-ADNI
-Link:https://adni.loni.usc.edu/
-STS-2D-Tooth
-https://aistudio.baidu.com/datasetdetail/223783/0
-STS-3D-Tooth
-https://www.codabench.org/competitions/3024/#/pages-tab
-REFUGE / REFUGE2
-https://refuge.grand-challenge.org/
-Dristi-GS
-https://hf-mirror.com/datasets/dennisheraldi/Drishti_GS
-RIM-ONE DL
-https://hf-mirror.com/datasets/ai4ophth/rim_one_dl_dataset
-PARES 2022
-https://parse2022.grand-challenge.org/Dataset/
-LIDC-IDRI
-https://opendatalab.org.cn/OpenDataLab/LIDC-IDRI
-JSRT
-http://db.jsrt.or.jp/eng.php
-EchoNet-Dynamic
-https://stanford.redivis.com/datasets/66s1-2hsmzj5rn/files
-LA
-https://www.cardiacatlas.org/atriaseg2018-challenge/atria-seg-data/
-MSD Heart
-http://medicaldecathlon.com/
-AIIB2023：https://codalab.lisn.upsaclay.fr/competitions/13238#learn_the_details-dataset
-ATM22
-https://atm22.grand-challenge.org/
-EXACT'09
-https://image.diku.dk/exact/information.php
-MSD Spleen
-http://medicaldecathlon.com/
-IXI-TOF-MRA
-https://brain-development.org/ixi-dataset/
-DRIVE
-https://drive.grand-challenge.org/
-CHASEDB1
-https://opendatalab.org.cn/OpenDataLab/CHASE_DB1
-FetReg
-https://opendatalab.org.cn/OpenDataLab/FetReg
-BT-Seg (BraTS)
-
-https://www.med.upenn.edu/cbica/brats/
-Brain
-https://www.med.upenn.edu/cbica/brats/
-FLAIR：通常为BraTS数据集中的FLAIR序列，可在BraTS官网获取。
-MSD2019 Task-01
-http://medicaldecathlon.com/
-Pituitary adenoma
-https://openneuro.org/datasets/ds006248
-IDRiD
-https://idrid.grand-challenge.org/
-Hecktor
-https://hecktor.grand-challenge.org/
-TN3K
-https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation
-TG3K
-https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation
-TNSCUI
-https://tn-scui2020.grand-challenge.org/Source_links/
-DDTI
-http://cimalab.intec.co/applications/thyroid/
-MSD-Lung Tumor
-http://medicaldecathlon.com/
-Chest X-ray结核
-https://figshare.com/articles/dataset/Shenzhen_chest_X-ray_set/16609978/1
-COVID-19 
-https://github.com/ieee8023/covid-chestxray-dataset
-QaTa-COV19
-https://tianchi.aliyun.com/dataset/94218
-Lung Image Segmentation：https://data.csiro.au/collections/#collection/CIcsiro:34717v1/DItrue
-FUMPE https://www.kaggle.com/datasets/andrewmvd/pulmonary-embolism-in-ct-images
-LNQ 2023
-https://lnq2023.grand-challenge.org/
-
-GlaS
-https://websignon.warwick.ac.uk/origin
-CCI
-https://github.com/openmedlab/Awesome-Medical-Dataset/blob/main/resources/GlaS.md
-CVC-ClinicDB / CVC-ColonDB / CVC-300
-https://github.com/DengPingFan/PraNet
-https://github.com/Beckschen/TransUNet
-ETIS
-https://github.com/Beckschen/TransUNet
-Kvasir
-https://datasets.simula.no/kvasir-seg/
-EndoScene
-https://github.com/aim-uofa/AdelaiDet
-LDPolypVideo
-https://link.zhihu.com/?target=https%3A//github.com/dashishi/LDPolypVideo-Benchmark
-ABUS
-https://github.com/PerceptionComputingLab/TDSC-ABUS2023
-FUSeg
-https://link.zhihu.com/?target=https%3A//fusc.grand-challenge.org/FUSeg-2021/
-HaN-Seg
-https://han-seg2023.grand-challenge.org/
-FeTA 2022
-https://feta.grand-challenge.org/
-iSeg-2019
-https://iseg2019.web.unc.edu/
-cSeg 2022
-https://github.com/openmedlab/Awesome-Medical-Dataset/blob/main/resources/cSeg2022.md
-WMH
-https://link.zhihu.com/?target=https%3A//dataverse.nl/dataset.xhtml%3FpersistentId%3Ddoi%3A10.34894/AECRSD
-Teeth3DS
-https://link.zhihu.com/?target=https%3A//osf.io/xctdy/
-SegTHOR
-https://link.zhihu.com/?target=https%3A//competitions.codalab.org/competitions/21145%23participate-get_starting_kit
-MVSeg-3DTEE 2023
-https://github.com/openmedlab/Awesome-Medical-Dataset/blob/main/resources/MVSeg-3DTEE.md
-ACDC
-https://www.creatis.insa-lyon.fr/Challenge/acdc/
-Cardiac
-https://www.ukbiobank.ac.uk/
-MMWHS
-https://mega.nz/folder/UNMF2YYI#1cqJVzo4p_wESv9P_pc8uA
-M&Ms
-https://www.ub.edu/mnms/
-CMRxMotion
-https://github.com/CMRxMotion
-
-CHAOS-T1 / CHAOS-T2
-https://chaos.grand-challenge.org/Download/
-AbdomenCT-1K
-https://github.com/JunMa11/AbdomenCT-1K
-FLARE2021 / FLARE2022
-https://flare.grand-challenge.org/Data/
-WORD
-https://github.com/HiLab-git/WORD
-AMOS
-https://zenodo.org/records/7155725#.Y0OOCOxBztM
-m2caiSeg
-https://aistudio.baidu.com/datasetdetail/166140
-BTCV
-https://kaiko-ai.github.io/eva/main/datasets/btcv/
-NIH-Pancreas
-https://www.selectdataset.com/dataset/a3edf86cfa91315041268bb52ea5afd1
-MSD2021 Task-08
-http://medicaldecathlon.com/
-TotalSegmentator
-https://github.com/wasserth/TotalSegmentator
-CT-ORG
-https://github.com/bbrister/ctOrganSegmentation
-CTSpine1K
-https://github.com/MIRACLE-Center/CTSpine1K
-Microscopy Images
-https://monuseg.grand-challenge.org/Data/
-https://www.kaggle.com/c/data-science-bowl-2018
-L2R-OASIS
-https://sites.wustl.edu/oasisbrains/
-BraTS19 / BraTS21
-https://www.med.upenn.edu/cbica/brats2019/data.html
-SD-OCT
-https://people.duke.edu/~sf59/Srinivasan_BOE_2014_dataset.htm
-ICH
-https://physionet.org/content/ct-ich/1.3.1/
-INSTANCE 2022
-https://instance.grand-challenge.org/
-ISLES22
-https://github.com/ezequieldlrosa/isles22
-ATLAS v2.0
-https://github.com/openmedlab/Awesome-Medical-Dataset/blob/main/resources/ATLASv2.0.md
-CTPA
-https://datahub.aida.scilifelab.se/10.23698/aida/ctpa
-RSPECT
-https://github.com/dila-ai/Augmented_RSPECT
-LNDb
-https://lndb.grand-challenge.org/Data/
-PROMISE12
-https://promise12.grand-challenge.org/
-Task05_Prostate
-Medical Segmentation Decathlon
-PI-CAI：https://pi-cai.grand-challenge.org/DATA/
-ISIC 系列（ISIC16/17/18）
-https://challenge.isic-archive.com/landing
-HAM10000
-https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
-PH2 Database
-https://www.fc.up.pt/addi/ph2%20database.html
-DermIS
-https://www.dermis.net/dermisroot/en/home/index.htm
-AutoPET
-https://autopet.grand-challenge.org/Dataset/
-ULS
-https://zenodo.org/records/10035161
-MoNuSeg
-https://monuseg.grand-challenge.org/Data/
-DSB2018
-https://www.kaggle.com/c/data-science-bowl-2018
 
 
-SegRap2023
-https://segrap2023.grand-challenge.org/dataset/
-CrossMoDA 2023
-Informations - Cross-Modality Domain Adaptation Image Segmentation - 2021 - Grand Challenge
-MRBrainS（MRBrainS13/18）
-https://mrbrains13.isi.uu.nl/data/
-https://mrbrains18.isi.uu.nl/data/download/
-MyoPS
-https://github.com/openmedlab/Awesome-Medical-Dataset/blob/main/resources/MyoPS_2020.md
-PleThora
-https://github.com/openmedlab/Awesome-Medical-Dataset/blob/main/resources/PleThora.md
-LiTS (Liver Tumor Segmentation Challenge)
-https://gitcode.com/Open-source-documentation-tutorial/03973/?utm_source=document_gitcode&index=top&type=card&&uuid_tt_dd=10_303738990-1768466047697-736590&isLogin=9&from_id=143343914&from_link=679cb6cce176bb95b1dceb54dfa3747d
-ATLAS (MICCAI2023)
-https://atlas-challenge.u-bourgogne.fr/dataset
-KiTS19 / KiTS21
-https://github.com/neheller/kits19
-https://github.com/neheller/kits21
-KiPA22 (Kidney Parsing 2022)
-https://kipa22.grand-challenge.org/
-SPPIN (Surgical Planning in Pediatric Neuroblastoma)
-https://sppin.grand-challenge.org/data-description/
-3D-IRCADB (3D-IRCADb-01)
-https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/
-FLARE 2023
-https://codalab.lisn.upsaclay.fr/competitions/12239
-MSD 系列 (Medical Segmentation Decathlon)
-http://medicaldecathlon.com/
+ADNI: https://adni.loni.usc.edu/
+STS-2D-Tooth: https://aistudio.baidu.com/datasetdetail/223783/0
+STS-3D-Tooth: https://www.codabench.org/competitions/3024/#/pages-tab
+REFUGE / REFUGE2: https://refuge.grand-challenge.org/
+Dristi-GS: https://hf-mirror.com/datasets/dennisheraldi/Drishti_GS
+RIM-ONE DL: https://hf-mirror.com/datasets/ai4ophth/rim_one_dl_dataset
+PARES 2022: https://parse2022.grand-challenge.org/Dataset/
+LIDC-IDRI: https://opendatalab.org.cn/OpenDataLab/LIDC-IDRI
+JSRT: http://db.jsrt.or.jp/eng.php
+EchoNet-Dynamic: https://stanford.redivis.com/datasets/66s1-2hsmzj5rn/files
+LA: https://www.cardiacatlas.org/atriaseg2018-challenge/atria-seg-data/
+MSD Heart: http://medicaldecathlon.com/
+AIIB2023: https://codalab.lisn.upsaclay.fr/competitions/13238#learn_the_details-dataset
+ATM22: https://atm22.grand-challenge.org/
+EXACT'09: https://image.diku.dk/exact/information.php
+MSD Spleen: http://medicaldecathlon.com/
+IXI-TOF-MRA: https://brain-development.org/ixi-dataset/
+DRIVE: https://drive.grand-challenge.org/
+CHASEDB1: https://opendatalab.org.cn/OpenDataLab/CHASE_DB1
+FetReg: https://opendatalab.org.cn/OpenDataLab/FetReg
+BT-Seg (BraTS): https://www.med.upenn.edu/cbica/brats/
+Brain: https://www.med.upenn.edu/cbica/brats/
+FLAIR: https://www.med.upenn.edu/cbica/brats/
+MSD2019 Task-01: http://medicaldecathlon.com/
+Pituitary adenoma: https://openneuro.org/datasets/ds006248
+IDRiD: https://idrid.grand-challenge.org/
+Hecktor: https://hecktor.grand-challenge.org/
+TN3K: https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation
+TG3K: https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation
+TNSCUI: https://tn-scui2020.grand-challenge.org/Source_links/
+DDTI: http://cimalab.intec.co/applications/thyroid/
+MSD-Lung Tumor: http://medicaldecathlon.com/
+Chest X-ray结核: https://figshare.com/articles/dataset/Shenzhen_chest_X-ray_set/16609978/1
+COVID-19: https://github.com/ieee8023/covid-chestxray-dataset
+QaTa-COV19: https://tianchi.aliyun.com/dataset/94218
+Lung Image Segmentation: https://data.csiro.au/collections/#collection/CIcsiro:34717v1/DItrue
+FUMPE: https://www.kaggle.com/datasets/andrewmvd/pulmonary-embolism-in-ct-images
+LNQ 2023: https://lnq2023.grand-challenge.org/
+GlaS: https://websignon.warwick.ac.uk/origin
+CCI: https://github.com/openmedlab/Awesome-Medical-Dataset/blob/main/resources/GlaS.md
+CVC-ClinicDB / CVC-ColonDB / CVC-300: https://github.com/DengPingFan/PraNet
+ETIS: https://github.com/Beckschen/TransUNet
+Kvasir: https://datasets.simula.no/kvasir-seg/
+EndoScene: https://github.com/aim-uofa/AdelaiDet
+LDPolypVideo: https://github.com/dashishi/LDPolypVideo-Benchmark
+ABUS: https://github.com/PerceptionComputingLab/TDSC-ABUS2023
+FUSeg: https://fusc.grand-challenge.org/FUSeg-2021/
+HaN-Seg: https://han-seg2023.grand-challenge.org/
+FeTA 2022: https://feta.grand-challenge.org/
+iSeg-2019: https://iseg2019.web.unc.edu/
+cSeg 2022: https://github.com/openmedlab/Awesome-Medical-Dataset/blob/main/resources/cSeg2022.md
+WMH: https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/AECRSD
+Teeth3DS: https://osf.io/xctdy/
+SegTHOR: https://competitions.codalab.org/competitions/21145#participate-get_starting_kit
+MVSeg-3DTEE 2023: https://github.com/openmedlab/Awesome-Medical-Dataset/blob/main/resources/MVSeg-3DTEE.md
+ACDC: https://www.creatis.insa-lyon.fr/Challenge/acdc/
+Cardiac: https://www.ukbiobank.ac.uk/
+MMWHS: https://mega.nz/folder/UNMF2YYI#1cqJVzo4p_wESv9P_pc8uA
+M&Ms: https://www.ub.edu/mnms/
+CMRxMotion: https://github.com/CMRxMotion
+CHAOS-T1 / CHAOS-T2: https://chaos.grand-challenge.org/Download/
+AbdomenCT-1K: https://github.com/JunMa11/AbdomenCT-1K
+FLARE2021 / FLARE2022: https://flare.grand-challenge.org/Data/
+WORD: https://github.com/HiLab-git/WORD
+AMOS: https://zenodo.org/records/7155725#.Y0OOCOxBztM
+m2caiSeg: https://aistudio.baidu.com/datasetdetail/166140
+BTCV: https://kaiko-ai.github.io/eva/main/datasets/btcv/
+NIH-Pancreas: https://www.selectdataset.com/dataset/a3edf86cfa91315041268bb52ea5afd1
+MSD2021 Task-08: http://medicaldecathlon.com/
+TotalSegmentator: https://github.com/wasserth/TotalSegmentator
+CT-ORG: https://github.com/bbrister/ctOrganSegmentation
+CTSpine1K: https://github.com/MIRACLE-Center/CTSpine1K
+Microscopy Images: https://monuseg.grand-challenge.org/Data/
+Microscopy Images: https://www.kaggle.com/c/data-science-bowl-2018
+L2R-OASIS: https://sites.wustl.edu/oasisbrains/
+BraTS19 / BraTS21: https://www.med.upenn.edu/cbica/brats2019/data.html
+SD-OCT: https://people.duke.edu/~sf59/Srinivasan_BOE_2014_dataset.htm
+ICH: https://physionet.org/content/ct-ich/1.3.1/
+INSTANCE 2022: https://instance.grand-challenge.org/
+ISLES22: https://github.com/ezequieldlrosa/isles22
+ATLAS v2.0: https://github.com/openmedlab/Awesome-Medical-Dataset/blob/main/resources/ATLASv2.0.md
+CTPA: https://datahub.aida.scilifelab.se/10.23698/aida/ctpa
+RSPECT: https://github.com/dila-ai/Augmented_RSPECT
+LNDb: https://lndb.grand-challenge.org/Data/
+PROMISE12: https://promise12.grand-challenge.org/
+Task05_Prostate: http://medicaldecathlon.com/
+PI-CAI: https://pi-cai.grand-challenge.org/DATA/
+ISIC 系列（ISIC16/17/18）: https://challenge.isic-archive.com/landing
+HAM10000: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
+PH2 Database: https://www.fc.up.pt/addi/ph2%20database.html
+DermIS: https://www.dermis.net/dermisroot/en/home/index.htm
+AutoPET: https://autopet.grand-challenge.org/Dataset/
+ULS: https://zenodo.org/records/10035161
+MoNuSeg: https://monuseg.grand-challenge.org/Data/
+DSB2018: https://www.kaggle.com/c/data-science-bowl-2018
+SegRap2023: https://segrap2023.grand-challenge.org/dataset/
+CrossMoDA 2023: https://crossmoda.grand-challenge.org/
+MRBrainS13: https://mrbrains13.isi.uu.nl/data/
+MRBrainS18: https://mrbrains18.isi.uu.nl/data/download/
+MyoPS: https://github.com/openmedlab/Awesome-Medical-Dataset/blob/main/resources/MyoPS_2020.md
+PleThora: https://github.com/openmedlab/Awesome-Medical-Dataset/blob/main/resources/PleThora.md
+LiTS (Liver Tumor Segmentation Challenge): https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/
+ATLAS (MICCAI2023): https://atlas-challenge.u-bourgogne.fr/dataset
+KiTS19: https://github.com/neheller/kits19
+KiTS21: https://github.com/neheller/kits21
+KiPA22 (Kidney Parsing 2022): https://kipa22.grand-challenge.org/
+SPPIN (Surgical Planning in Pediatric Neuroblastoma): https://sppin.grand-challenge.org/data-description/
+3D-IRCADB (3D-IRCADb-01): https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/
+FLARE 2023: https://codalab.lisn.upsaclay.fr/competitions/12239
+MSD 系列 (Medical Segmentation Decathlon): http://medicaldecathlon.com/
